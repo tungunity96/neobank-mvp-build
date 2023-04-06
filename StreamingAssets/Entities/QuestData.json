@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "Chào mừng đến với VParadise",
+      "description": "Nói chuyện với người đại diện VParadise",
+      "completeCongratMessage": "Chúc mừng bạn đã hoàn thành nhiệm vụ đầu tiên",
+      "npcGiveQuest": -1,
+      "npcFinishQuest": 1,
+      "rewardAmount": 1000,
+      "unlockQuest": [
+        1
+      ],
+      "requirements": [{
+        "id": 0,
+        "type": "talk",
+        "interactObjectId": 1,
+        "amount": 1
+      }]
+    },
+    {
+      "id": 1,
+      "name": "Chào mừng đến với VietinBank",
+      "description": "Nói chuyện với chú bảo vệ của VietinBank",
+      "completeCongratMessage": "Chúc mừng bạn đã hoàn thành nhiệm vụ thứ hai",
+      "npcGiveQuest": 1,
+      "npcFinishQuest": 2,
+      "rewardAmount": 1000,
+      "unlockQuest": [
+        2
+      ],
+      "requirements": [{
+        "id": 1,
+        "type": "talk",
+        "interactObjectId": 2,
+        "amount": 1
+      }]
+    },
+    {
+      "id": 2,
+      "name": "Sản phẩm của VietinBank",
+      "description": "Nói chuyện với nhân viên quầy của VietinBank",
+      "completeCongratMessage": "Chúc mừng bạn đã hoàn thành nhiệm vụ thứ ba",
+      "npcGiveQuest": 2,
+      "npcFinishQuest": 3,
+      "rewardAmount": 1000,
+      "unlockQuest": [
+        3
+      ],
+      "requirements": [{
+        "id": 2,
+        "type": "talk",
+        "interactObjectId": 3,
+        "amount": 1
+      }]
+    },
+    {
+      "id": 3,
+      "name": "Trải nghiệm VietinBank",
+      "description": "Tương tác với cây ATM của VietinBank",
+      "completeCongratMessage": "Chúc mừng bạn đã hoàn thành nhiệm vụ thứ tư",
+      "npcGiveQuest": 3,
+      "npcFinishQuest": 3,
+      "rewardAmount": 1000,
+      "unlockQuest": [
+        4
+      ],
+      "requirements": [{
+        "id": 3,
+        "type": "interact",
+        "interactObjectId": 11,
+        "amount": 1
+      }]
+    },
+    {
+      "id": 4,
+      "name": "Tất cả vì quý khách!",
+      "description": "Nói chuyện với nhân viên Hỗ trợ của VietinBank",
+      "completeCongratMessage": "Chúc mừng bạn đã hoàn thành nhiệm vụ thứ năm",
+      "npcGiveQuest": 3,
+      "npcFinishQuest": 3,
+      "rewardAmount": 1000,
+      "unlockQuest": [
+        5
+      ],
+      "requirements": [{
+        "id": 4,
+        "type": "talk",
+        "interactObjectId": 4,
+        "amount": 1
+      }]
+    },
+    {
+      "id": 5,
+      "name": "Bay là thích!",
+      "description": "Nói chuyện với nhân viên Vietjet Air",
+      "completeCongratMessage": "Chúc mừng bạn đã hoàn thành nhiệm vụ thứ sáu",
+      "npcGiveQuest": 3,
+      "npcFinishQuest": 5,
+      "rewardAmount": 1000,
+      "unlockQuest": [
+        6
+      ],
+      "requirements": [{
+        "id": 5,
+        "type": "talk",
+        "interactObjectId": 5,
+        "amount": 1
+      }]
+    },
+    {
+      "id": 6,
+      "name": "Vui chơi có thưởng!",
+      "description": "Nói chuyện với chủ trò chơi Vòng Quay May Mắn",
+      "completeCongratMessage": "Chúc mừng bạn đã hoàn thành chuỗi nhiệm vụ giới thiệu",
+      "npcGiveQuest": 5,
+      "npcFinishQuest": 6,
+      "rewardAmount": 1000,
+      "unlockQuest": [],
+      "requirements":[{
+        "id": 6,
+        "type": "playgame",
+        "interactObjectId": 6,
+        "amount": 1
+      }]
+    },
+    {
+      "id": 7,
+      "name": "Đi tìm kho báu nào!",
+      "description": "Tìm 3 kho báu thất lạc trên VParadise",
+      "completeCongratMessage": "Chúc mừng bạn đã tham gia trò chơi đầu tiên",
+      "npcGiveQuest": 7,
+      "npcFinishQuest": 7,
+      "rewardAmount": 1000,
+      "unlockQuest": [],
+      "requirements": [{
+        "id": 7,
+        "type": "interact",
+        "interactObjectId": 12,
+        "amount": 1
+      },
+      {
+        "id": 8,
+        "type": "interact",
+        "interactObjectId": 13,
+        "amount": 1
+      },
+      {
+        "id": 9,
+        "type": "interact",
+        "interactObjectId": 14,
+        "amount": 1
+      }]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "Đàm Thanh Tùng",
+      "subtitle": "Đại diện VietinBank",
+      "conversation": "VietinbankGuide.json",
+      "locationName": "Town"
+    },
+    {
+      "id": 1,
+      "name": "Nguyễn Hải Báo",
+      "subtitle": "Nhân viên lễ tân VietinBank",
+      "conversation": "VietinbankGuide.json",
+      "locationName": "Town"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Thành Nghĩa",
+      "subtitle": "Nhân viên quầy VietinBank",
+      "conversation": "VietinbankGuide.json",
+      "locationName": "Town"
+    },
+    {
+      "id": 3,
+      "name": "Nguyễn Xuân Thái",
+      "subtitle": "Nhân viên hỗ trợ VietinBank",
+      "conversation": "VietinbankGuide.json",
+      "locationName": "Town"
+    },
+    {
+      "id": 4,
+      "name": "Võ Minh Khôi",
+      "subtitle": "Nhân viên Vietjet Air",
+      "conversation": "VietinbankGuide.json",
+      "locationName": "Town"
+    },
+    {
+      "id": 5,
+      "name": "Nguyên Duy Cương",
+      "subtitle": "Cư dân của VPParadise",
+      "conversation": "VietinbankGuide.json",
+      "locationName": "Town"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+    "data":[
+        {
+            "id": 0,
+            "name":"VietinBank",
+            "description": "Hành trình lịch sử của Ngân hàng TMCP Công Thương Việt Nam (VietinBank) đã bước vào năm thứ 30. Trong chặng đường dài ý nghĩa đó, VietinBank luôn khẳng định được vai trò chủ lực và trách nhiệm tiên phong trong Ngành Ngân hàng Việt Nam. Kỳ vọng đột phá là có cơ sở khi VietinBank đang hội tụ đủ sức mạnh, sẵn sàng tâm thế, vững vàng, tự tin để hội nhập thành công",
+            "link":"https://www.vietinbank.vn/investmentbanking/aboutus/history.html"
+        },
+        {
+            "id": 1,
+            "name":"Sun Group",
+            "description": "Thành lập năm 2007 tại Việt Nam bởi các du học sinh người Việt yêu nước tại Ukraine, Sun Group hiện đang là một trong những tập đoàn đa ngành hàng đầu Việt Nam, với bốn lĩnh vực đầu tư chiến lược là du lịch nghỉ dưỡng, vui chơi giải trí, bất động sản, đầu tư hạ tầng",
+            "link":"https://sungroup.com.vn/about"
+        },
+        {
+            "id": 2,
+            "name":"Manulife",
+            "description": "Tập đoàn Tài chính Manulife là một trong những tập đoàn hàng đầu thế giới về cung cấp dịch vụ tài chính, hoạt động với sứ mệnh giúp khách hàng “Quyết định dễ dàng, vẹn toàn cuộc sống ”. Cùng với trụ sở quốc tế tại Toronto, Canada, chúng tôi cung cấp dịch vụ tư vấn tài chính và bảo hiểm, vận hành dưới thương hiệu Manulife tại Canada, Châu Á và Châu Âu, và John Hancock tại Hoa Kỳ. Thông qua Manulife Investment Management - thương hiệu toàn cầu của chúng tôi trong lĩnh vực quản lý tài sản, chúng tôi cung cấp các giải pháp tài chính, bảo hiểm và dịch vụ quản lý tài sản cho các cá nhân, nhóm và tổ chức.",
+            "link":"https://www.manulife.com.vn/vi/ve-chung-toi/ve-manulife.html"
+        },
+        {
+            "id": 3,
+            "name":"Vietjet Air",
+            "description": "Vietjet Air là hãng hàng không đầu tiên tại Việt Nam vận hành theo mô hình hàng không thế hệ mới, chi phí thấp và cung cấp đa dạng các dịch vụ cho khách hàng lựa chọn. Hãng không chỉ vận chuyển hàng không mà còn cung cấp các nhu cầu tiêu dùng hàng hoá và dịch vụ cho khách hàng thông qua các ứng dụng công nghệ thương mại điện tử tiên tiến.",
+            "link":""
+        },
+        {
+            "id": 4,
+            "name":"Rồng Việt Securities",
+            "description": "Rồng Việt khát khao trở thành một trong những định chế tài chính hàng đầu, hiện đại và hiệu quả nhất Việt Nam vào năm 2030 với việc kiến tạo thành công hệ sinh thái tài chính-đầu tư dành cho khách hàng của Rồng Việt. Chúng tôi mong muốn “Kiến tạo tương lại thịnh vượng” cho khách hàng, cổ đông, người lao động và góp phần xây dựng nên một nước Việt Nam hùng cường-thịnh vượng.",
+            "link":"https://vdsc.com.vn/ve-rong-viet"
+        }
+    ]
+}

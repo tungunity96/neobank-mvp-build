@@ -1,0 +1,65 @@
+{
+    "data": {
+        "playerName": "Amas",
+        "userOutfit": {
+            "Gender": 0,
+            "Hair": 0,
+            "Shirt": 0,
+            "Bottoms": 0,
+            "Shoes": 0,
+            "SkinMaterial": 0
+        },
+        "userItems": [
+            {
+                "name": "DefaultItem1",
+                "part": "Hair",
+                "index": 0
+            },
+            {
+                "name": "DefaultItem2",
+                "part": "Hair",
+                "index": 1
+            },
+            {
+                "name": "DefaultItem3",
+                "part": "Hat",
+                "index": 0
+            },
+            {
+                "name": "DefaultItem4",
+                "part": "Hat",
+                "index": 1
+            },
+            {
+                "name": "DefaultItem13",
+                "part": "Shirt",
+                "index": 0
+            },
+            {
+                "name": "DefaultItem14",
+                "part": "Shirt",
+                "index": 1
+            },
+            {
+                "name": "DefaultItem15",
+                "part": "Bottoms",
+                "index": 0
+            },
+            {
+                "name": "DefaultItem16",
+                "part": "Bottoms",
+                "index": 1
+            },
+            {
+                "name": "DefaultItem17",
+                "part": "Shoes",
+                "index": 0
+            },
+            {
+                "name": "DefaultItem18",
+                "part": "Shoes",
+                "index": 1
+            }
+        ]
+    }
+}

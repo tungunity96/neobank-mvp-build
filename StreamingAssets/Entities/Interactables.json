@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "type": "ATM"
+    },
+    {
+      "id": 1,
+      "name": "Tùng",
+      "type": "Npc",
+      "subtite": "Đại diện VietinBank"
+    },
+    {
+      "id": 2,
+      "name": "Hải",
+      "type": "Npc",
+      "subtite": "Chú bảo vệ VietinBank"
+    },
+    {
+      "id": 3,
+      "name": "Nghĩa",
+      "type": "Npc",
+      "subtite": "Nhân viên lễ tân VietinBank"
+    },
+    {
+      "id": 4,
+      "name": "Thái",
+      "type": "Npc",
+      "subtite": "Nhân viên hỗ trợ VietinBank"
+    },
+    {
+      "id": 5,
+      "name": "Khôi",
+      "type": "Npc",
+      "subtite": "Nhân viên Vietjet Air"
+    },
+    {
+      "id": 6,
+      "name": "Columbus",
+      "type": "Npc",
+      "subtite": "Nhà thám hiểm"
+    },
+    {
+      "id": 7,
+      "name": "Bác Năm",
+      "type": "Npc",
+      "subtite": "Minigame Vòng Quay May Mắn"
+    },
+    {
+      "id": 8,
+      "name": "Anh Ba",
+      "type": "Npc",
+      "subtite": "Minigame Đố vui"
+    },
+    {
+      "id": 9,
+      "name": "Hải Tiến",
+      "type": "Npc",
+      "subtite": "Cư dân VParadise"
+    },
+    {
+      "id": 10,
+      "name": "Hồng Hạnh",
+      "type": "Npc",
+      "subtite": "Cư dân VParadise"
+    },
+    {
+      "id": 11,
+      "name": "Hoài Đức",
+      "type": "Npc",
+      "subtite": "Cư dân VParadise"
+    },
+    {
+      "id": 12,
+      "name": "Minh Nguyệt",
+      "type": "Npc",
+      "subtite": "Cư dân VParadise"
+    }
+  ]
+}
